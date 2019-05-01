@@ -26,4 +26,3 @@ License and Warranty:
 Please check the file LICENSE.md for the details.
 
 Regards, Matteo Destro
-"# Arduino_Gesture_MGC3130" 
